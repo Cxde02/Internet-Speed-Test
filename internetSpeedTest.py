@@ -1,6 +1,5 @@
 import speedtest
 
-# Create a Speedtest object
 st = speedtest.Speedtest()
 
 # Download speed in Mbps
